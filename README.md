@@ -5,3 +5,6 @@
 4. [Ссылка на выгрузку по отчетам о дефектах из Youtrack для разделов Cart management и Order management](https://github.com/IMV227/web/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.xlsx "ссылка на отчеты")
 5. [Cсылка на тест ран по набору тест-кейсов по блоку Cart managemen](https://github.com/IMV227/web/blob/main/G10-Test%2Brun%2B2025_05_07.pdf "ссылка на тест ран по блоку Cart management") 
 6. [Ссылка на тест ран по набору тест-кейсов по блоку Order management](https://github.com/IMV227/web/blob/main/G10-Test%2Brun%2B2025_05_07%20(1).pdf "ссылка на тест ран по блоку Order management")
+7. [Добавление 500 товаров вместо 2](https://github.com/IMV227/web/blob/main/500%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%20%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BE%202.mkv)
+8. [Видео с заменой ответа](https://github.com/IMV227/web/blob/main/%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B0.mkv)
+9. [Видео с заменой тестовых стендов](https://github.com/IMV227/web/blob/main/%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D1%85%20%D1%81%D1%82%D0%B5%D0%BD%D0%B4%D0%BE%D0%B2.mkv)
